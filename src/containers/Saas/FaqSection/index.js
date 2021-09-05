@@ -195,7 +195,7 @@ FaqSection.defaultProps = {
   descriptionStyle: {
     fontSize: '15px',
     color: '#5d646d',
-    lineHeight: '1.75',
+    lineheight: '1.75',
     mb: '0',
     fontWeight: '400',
   },

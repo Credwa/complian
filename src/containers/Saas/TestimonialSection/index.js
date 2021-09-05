@@ -94,14 +94,14 @@ const TestimonialSection = ({
                   </TextWrapper>
                   <ImageWrapper>
                     <RoundWrapper>
-                      <GatsbyImage
+                      {/* <GatsbyImage
                         src={
                           (item.avatar_url !== null) | undefined
                             ? item.avatar_url.childImageSharp.gatsbyImageData
                             : {}
                         }
                         alt="Client Image"
-                      />
+                      /> */}
                     </RoundWrapper>
                     <Button
                       variant="fab"

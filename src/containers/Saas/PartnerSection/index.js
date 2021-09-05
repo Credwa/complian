@@ -41,8 +41,8 @@ const PartnerSection = ({
       <Container>
         <Box {...row}>
           <Box {...col} {...imageArea}>
-                      <iframe width="560" height="496" src="https://www.youtube.com/embed/7FoXE2rPm8Y" title="YouTube video player" style={{borderRadius: "3px"}} frame
-          Border="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      <iframe width="560" height="496" src="https://www.youtube.com/embed/7FoXE2rPm8Y" title="YouTube video player" style={{borderRadius: "3px"}}
+          border="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
 
           </Box>
           <Box {...col} {...textArea}>
